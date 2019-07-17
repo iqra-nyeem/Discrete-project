@@ -1,0 +1,7 @@
+Name:Analyse Pakistani Dishes 
+Type: Graph
+number of nodes: 288
+number of edges: 3218
+clustering 0.8510673619970941
+Diameter: 4
+Average degree: 22.34722222222222
