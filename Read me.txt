@@ -1,5 +1,0 @@
-Name:Analyse Pakistani Dishes 
-Type: Graph
-Number of nodes: 84
-Number of edges: 957
-Average degree:  22.7857
